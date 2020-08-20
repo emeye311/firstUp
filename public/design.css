@@ -1,0 +1,38 @@
+body{
+    direction :rtl;
+    
+    /* background-color: aqua; */
+}
+div{
+    font-size: large;
+}
+img{
+    height: 30%;
+    width: 32%;
+    
+}
+input{
+    height: 10%;
+    width: 10%;
+}
+#err{
+    background-size: cover;
+}
+#sidebar{
+    height: 10%;
+    width: 100%;
+    background-color: rgb(24, 216, 18);
+    position: fixed;
+}
+#navbar{
+    height: 10%;
+    width: 100%;
+    background-color: rgb(229, 245, 7);
+    position: static;
+}
+footer{
+    height: 10%;
+    width: 100%;
+    background-color: rgb(253, 16, 16);
+    position: fixed;
+}
